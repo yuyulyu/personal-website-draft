@@ -22,7 +22,7 @@ main:
     #url: /markdown/
 
   - title: "Leetcode"
-    url: /leetcode/
+    url: /leetcode-posts/
 
   - title: "Test"
     url: /test/
