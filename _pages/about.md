@@ -11,4 +11,5 @@ I am a third year undergraduate student from [University of Bath](https://www.ba
 
 You can find my CV here: [Le Lyu's CV](../assets/Le_Lyu_CV.pdf).
 
+---
 [Email](ll2300@bath.ac.uk)/[LinkedIn](www.linkedin.com/in/le-lyu-yoyo)
