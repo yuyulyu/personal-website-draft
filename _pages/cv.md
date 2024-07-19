@@ -22,23 +22,13 @@ Education
 - **Grade:** 73.1%
 - **Predicted Classification:** First class
 - **Modules:**
-  - Machine Learning
-  - Foundations of Computation
-  - Fundamentals of Visual Computing
-  - Data Structures and Algorithms
-  - Artificial Intelligence 2
-  - Foundations and Frontiers of Machine Learning
-  - Experimental Systems Project
+  - Machine Learning, Foundations of Computation, Fundamentals of Visual Computing, Data Structures and Algorithms, Artificial Intelligence 2, Foundations and Frontiers of Machine Learning, Experimental Systems Project
 
 #### Year 1
 - **Grade:** 60.6%
 - **Predicted Classification:** 2:1
 - **Modules:**
-  - Artificial Intelligence 1
-  - Discrete Mathematics and Databases & Mathematics for Computation
-  - Principle of Programming
-  - Computer System Architecture
-  - Software Processing and Modelling
+  - Artificial Intelligence 1, Discrete Mathematics and Databases & Mathematics for Computation, Principle of Programming, Computer System Architecture, Software Processing and Modelling
 
 ### 2019-2022: International Baccalaureate Diploma (IBDP)
 **Guangdong Shunde Desheng School (International), Guangdong, China**
