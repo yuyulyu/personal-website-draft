@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-#About Me
----
 I am a third year undergraduate student from [University of Bath](https://www.bath.ac.uk/), studying Computer Science & Artificial Intelligence.
 
 You can find my CV here: [Le Lyu's CV](.../assets/Le_Lyu_CV.pdf)
