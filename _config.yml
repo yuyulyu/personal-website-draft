@@ -249,12 +249,15 @@ defaults:
       share: true
   # _leetcodes
   - scope:
-      path: ""
-      type: leetcodes
+       path: ""
+      type: leetcode
     values:
       layout: single
       author_profile: true
+      read_time: true
+      comments: true
       share: true
+      related: true
 
 # Sass/SCSS
 sass:
