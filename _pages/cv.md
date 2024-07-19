@@ -46,14 +46,8 @@ Education
 - **Overall:** 37/45
 - **EE (Mathematics) & TOK:** 2/3 (B)
 
-| **Subject**           | **Grade** |
-|-----------------------|-----------|
-| Math AA (HL)          | 6/7       |
-| English B (SL)        | 6/7       |
-| Physics (HL)          | 5/7       |
-| Computer Science (HL) | 7/7       |
-| Chinese A (SL)        | 6/7       |
-| Geography (SL)        | 5/7       |
+| Math AA (HL)            | 6/7  | English B (SL)        | 6/7       |Physics (HL)          | 5/7       |
+|  Computer Science (HL) | 7/7       |Chinese A (SL)        | 6/7       |Geography (SL)        | 5/7       |
 
 
 Work experience
