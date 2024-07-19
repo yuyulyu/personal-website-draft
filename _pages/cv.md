@@ -37,8 +37,8 @@ Education
 Work experience
 ======
 ### July - Sep 2023: Web Development Intern
-  Technologies Used: Python, SQL, GitHub, Django, Flask, HTML, CSS, JavaScript
-  * Recognized the inefficiency in showcasing community institutions for the elderly, disabled, minors, and volunteers with static images. I proposed a dynamic, web-based solution to enhance accessibility and interaction.
+  **Technologies Used**: Python, SQL, GitHub, Django, Flask, HTML, CSS, JavaScript
+  Recognized the inefficiency in showcasing community institutions for the elderly, disabled, minors, and volunteers with static images. I proposed a dynamic, web-based solution to enhance accessibility and interaction.
   
 
 ### Feb - Mar 2023: Student Intern
@@ -46,23 +46,16 @@ Work experience
 
 Skills
 ======
-* Programming Languages
-  * Python, Java, C, SQL, HTML, CSS, JavaScript
-* Framework
-  * Django, Flask, Pytorch, Jest, React
-* Software
-  * LATEX, Microsoft Office, Postman, Figma
-* IDEs & Tools
-  * Visual Studio, GitHub, Postman
-* SPEAKING LANGUAGES
-  * Mandarin (Native)
-  * Cantonese (Native)
-  * English (IELTS 6.5)
+* **Programming Languages:** Python, Java, C, SQL, HTML, CSS, JavaScript
+* **Framework:** Django, Flask, Pytorch, Jest, React
+* **Software:** LATEX, Microsoft Office, Postman, Figma
+* **IDEs & Tools:** Visual Studio, GitHub, Postman
+* **Speaking Languages:** Mandarin (Native), Cantonese (Native), English (IELTS 6.5)
 
 
 Extracurricular Experience
 ======
-### SJTU SDG July Camp 2024	June 2024 – July 2024
+### **SJTU SDG July Camp 2024	June 2024 – July 2024**
  During Sustainable Development Goal July Camp at Shanghai Jiaotong University, China, I participated in the course Sustainable Marine Environment Intelligent Monitoring. 
 *	Attended lectures on marine robotics, machine learning, and autonomous systems.
 *	Led a team of 5 computer science students to design and develop a Marine Debris Collection System demo.
