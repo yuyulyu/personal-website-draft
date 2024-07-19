@@ -247,9 +247,9 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _leetcodes
+  # _leetcode
   - scope:
-       path: ""
+      path: ""
       type: leetcode
     values:
       layout: single
