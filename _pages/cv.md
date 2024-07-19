@@ -11,54 +11,70 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Resume
+
+## Education
+
+### 2022-2026: University of Bath
+**BSc(Hons) Computer Science & Artificial Intelligence**
+
+#### Year 2
+- **Grade:** 73.1%
+- **Predicted Classification:** First class
+- **Modules:**
+  - Machine Learning
+  - Foundations of Computation
+  - Fundamentals of Visual Computing
+  - Data Structures and Algorithms
+  - Artificial Intelligence 2
+  - Foundations and Frontiers of Machine Learning
+  - Experimental Systems Project
+
+#### Year 1
+- **Grade:** 60.6%
+- **Predicted Classification:** 2:1
+- **Modules:**
+  - Artificial Intelligence 1
+  - Discrete Mathematics and Databases & Mathematics for Computation
+  - Principle of Programming
+  - Computer System Architecture
+  - Software Processing and Modelling
+
+### 2019-2022: International Baccalaureate Diploma (IBDP)
+**Guangdong Shunde Desheng School (International), Guangdong, China**
+
+- **Overall:** 37/45
+- **EE (Mathematics) & TOK:** 2/3 (B)
+
+| **Subject**           | **Grade** |
+|-----------------------|-----------|
+| Math AA (HL)          | 6/7       |
+| English B (SL)        | 6/7       |
+| Physics (HL)          | 5/7       |
+| Computer Science (HL) | 7/7       |
+| Chinese A (SL)        | 6/7       |
+| Geography (SL)        | 5/7       |
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* July - Sep 2023: Web Development Intern
+  * Technologies Used: Python, SQL, GitHub, Django, Flask, HTML, CSS, JavaScript
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Feb - Mar 2023: Student Intern
+  * Part time - Estudiamos, UK 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python, Java, C, SQL, HTML, CSS, JavaScript
+* Frameworks
+  * Django, Flask, Pytorch, Jest, React
+* Methodologies
+  * Agile 
+* Software
+  * LATEX, Microsoft Office, Postman, Figma
+* IDEs & Tools
+  * Visual Studio, GitHub, Postman
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
