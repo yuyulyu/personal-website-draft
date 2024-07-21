@@ -569,3 +569,13 @@ border-radius: .1em;
 .ai-inverse {
   color: #fff;
 }
+
+/* Custom code block style */
+.custom-code-block {
+  background-color: #000000; /* black background */
+  color: #ffffff; /* white text */
+  padding: 10px;
+  border-radius: 5px;
+  overflow-x: auto;
+}
+
