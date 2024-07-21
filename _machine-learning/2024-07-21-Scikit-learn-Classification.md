@@ -24,31 +24,39 @@ sidebar:
 
 ## Scikit-learn Syntax
 
-1. Import scikit-learn**
-2. Build a model
-3. Model learns from the labeled data (training data) passed to it
-4. Pass unlabeled data to the model as input
-5. Model predicts the labels of the unseen data
+1. Import scikit-learn**.
+   ```python
+    from sklearn.module import Model
+   ```
+   K-Nearest-Neighbors:
+   ```python
+    from sklearn.neighbors import KNeighborsClassifier
+   ```
+2. Train/test split.
+  ```python
+  from sklearn.model_selection import train_test_split
+  X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.3, random_state = 21 stratify = y)
+  ``` 
+4. Build a model.
+  ```python
+  model = Model()
+  ```
+   K-Nearest-Neighbors:
+   ```python
+    knn = KneighborsClassifier(n_neighbors=15)
+   ```
+6. Model learns from the labeled data (training data) passed to it.
+  ```python
+  model.fit(X,y)
+  ```
+   K-Nearest-Neighbors:
+   ```python
+    knn.fit(X,y)
+   ```
+8. Pass unlabeled data to the model as input, model predicts the labels of the unseen data.
+  ```python
+  prediction = model.predict(X_new)
+  ```
 
-```python
-from sklearn.module import Model
-model = Model()
-model.fit(X,y)
-prediction = model.predict(X_new)
-```
 
-## K-Nearest-Neighbors
-1. Initialisation
-```python
-from sklearn.neighbors import KNeighborsClassifier
-X = training_data[["variable1","variable2"]].values
-y = training_data[["output"]].values
-```
-2. Train model
-```python
-knn = KneighborsClassifier(n_neighbors=15)
-knn.fit(X,y)
-```
-## Measuring model performance
-$ accuracy = \frac{correct predictions}{total observations}$
 
