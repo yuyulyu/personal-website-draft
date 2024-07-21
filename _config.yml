@@ -175,19 +175,25 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # teaching:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # publications:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
   leetcode:
+    output: true
+    permalink: /:collection/:year/:month/:path/
+  algorithm:
+    output: true
+    permalink: /:collection/:year/:month/:path/
+  machine-learning:
     output: true
     permalink: /:collection/:year/:month/:path/
 
@@ -258,6 +264,29 @@ defaults:
       comments: true
       share: true
       related: true
+  # _algorithm
+  - scope:
+      path: ""
+      type: algorithm
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _machine-learning
+  - scope:
+    path: ""
+      type: machine-learning
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _machine-learning
 
 # Sass/SCSS
 sass:
