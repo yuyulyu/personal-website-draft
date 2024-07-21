@@ -12,8 +12,17 @@ sidebar:
       url: “#header-two"
 ---
 
-d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.v
+## Machine Learning with scikit-learn {##machine-learning-with-scikit-learn}
 
-## Header two {#header-two}
+### Before using supervise learning
+ **Requirements**
+  - No missing values
+  - Data in numeriv format
+  - Data sorted in pandas DataFrame or NumPy array
+- **Perform Exploratory Data Analysis (EDA) first**
 
-d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.v
+### Scikit-learn Syntax
+**Import scikit-learn**
+```python
+from sklearn.module import Model
+```
