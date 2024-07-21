@@ -57,6 +57,10 @@ sidebar:
     ```python
       prediction = model.predict(X_new)
     ```
-
+** Check accuracy
+    K-Nearest-Neighbors:
+    ```python
+      knn.score(X_test,y_test))
+    ```
 
 
