@@ -277,7 +277,7 @@ defaults:
       related: true
   # _machine-learning
   - scope:
-    path: ""
+      path: ""
       type: machine-learning
     values:
       layout: single
@@ -286,7 +286,6 @@ defaults:
       comments: true
       share: true
       related: true
-  # _machine-learning
 
 # Sass/SCSS
 sass:
