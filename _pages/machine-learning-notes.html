@@ -9,17 +9,18 @@ author_profile: true
 {% capture written_label %}'None'{% endcapture %}
 
 {% for collection in site.collections %}
-    <p> {{collection.output}}, {{collection.label}} </p>
   {% unless collection.output == false or collection.label != "machine-learning" %}
     {% capture label %}{{ collection.label }}{% endcapture %}
-    {% if label != written_label %}
+    {% if label != written_label and label == "machine-learning" %}
       <h2 id="{{ label | slugify }}" class="archive__subtitle">{{ label }}</h2>
       {% capture written_label %}{{ label }}{% endcapture %}
     {% endif %}
   {% endunless %}
   {% for post in collection.docs %}
     {% unless collection.output == false or collection.label != "machine-learning" %}
-      {% include archive-single.html %}
+      {% if label != written_label and label == "machine-learning" %}
+        {% include archive-single.html %}
+      {% endif %}
     {% endunless %}
   {% endfor %}
 {% endfor %}
