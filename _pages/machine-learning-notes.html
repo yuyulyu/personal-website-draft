@@ -9,6 +9,7 @@ author_profile: true
 {% capture written_label %}'None'{% endcapture %}
 
 {% for collection in site.collections %}
+<p>collection label: {{collection.label}} - {{collection.label == "machine-learning"}}</p>
   {% unless collection.output == false or collection.label != "machine-learning" %}
     {% capture label %}{{ collection.label }}{% endcapture %}
     {% if label != written_label and label == "machine-learning" %}
