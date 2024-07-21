@@ -18,7 +18,7 @@ author_profile: true
     {% endif %}
   {% endunless %}
   {% for post in collection.docs %}
-    {% unless collection.output == false or collection.label == "posts" %}
+    {% unless collection.output == false or collection.label != "machine-learning" %}
       {% include archive-single.html %}
     {% endunless %}
   {% endfor %}
