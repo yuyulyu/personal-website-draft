@@ -12,19 +12,29 @@ sidebar:
       url: “#header-two"
 ---
 
-## Machine Learning with scikit-learn {#machine-learning-with-scikit-learn}
+# Machine Learning with scikit-learn {#machine-learning-with-scikit-learn}
 
-### Before using supervise learning
+## Before using supervise learning
  **Requirements**
   - No missing values
   - Data in numeriv format
   - Data sorted in pandas DataFrame or NumPy array
 - **Perform Exploratory Data Analysis (EDA) first**
 
-### Scikit-learn Syntax
+## Scikit-learn Syntax
+
 **Import scikit-learn**
 <div class="custom-code-block">
 ```python
 from sklearn.module import Model
+</div>
+```
+
+**Example**
+<div class="custom-code-block">
+```python
+model = Model()
+model.fit(X,y)
+prediction = model.predict(X_new)
 </div>
 ```
