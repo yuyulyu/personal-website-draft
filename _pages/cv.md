@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV [here](http://yuyulyu.github.io/files/Le_Lyu_CV.pdf)
+You can find my CV [here](../assets/Le_Lyu_CV.pdf).
 
 Education
 ======
