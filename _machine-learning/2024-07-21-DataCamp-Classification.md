@@ -7,8 +7,8 @@ tags:
 sidebar:
   - title: "DataCamp: Classification"
   - nav:
-    - title: "Title 1"
-    - url: 
+    - title: "Header two"
+    - url: “#Header two"
 ---
 
 d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.v
