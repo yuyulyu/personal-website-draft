@@ -9,11 +9,11 @@ sidebar:
     url: "#"
   - nav:
     - title: "Header two"
-      url: “#Header two"
+      url: “#header-two"
 ---
 
 d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.v
 
-## Header two
+## Header two {#header-two}
 
 d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.v
