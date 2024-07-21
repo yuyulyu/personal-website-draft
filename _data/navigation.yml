@@ -24,6 +24,9 @@ main:
   - title: "Notes"
     url: /notes/
 
+  - title: "Machine Learning"
+    url: /machine-learning-notes/
+
   - title: "Test"
     url: /test/
 
