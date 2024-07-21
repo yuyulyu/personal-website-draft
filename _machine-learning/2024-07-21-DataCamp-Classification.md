@@ -16,7 +16,7 @@ sidebar:
 # Machine Learning with scikit-learn {#machine-learning-with-scikit-learn}
 
 ## Before using supervise learning
- - **Requirements**
+- **Requirements**
   - No missing values
   - Data in numeriv format
   - Data sorted in pandas DataFrame or NumPy array
@@ -49,4 +49,6 @@ y = training_data[["output"]].values
 knn = KneighborsClassifier(n_neighbors=15)
 knn.fit(X,y)
 ```
+## Measuring model performance
+$ accuracy = \frac{correct predictions}{total observations}$
 
