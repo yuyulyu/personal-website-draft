@@ -12,16 +12,14 @@ author_profile: true
 <p>collection label: {{collection.label}} - {{collection.label == "machine-learning"}}</p>
   {% unless collection.output == false or collection.label != "machine-learning" %}
     {% capture label %}{{ collection.label }}{% endcapture %}
-    {% if label != written_label and label == "machine-learning" %}
+    {% if label != written_label%}
       <h2 id="{{ label | slugify }}" class="archive__subtitle">{{ label }}</h2>
       {% capture written_label %}{{ label }}{% endcapture %}
     {% endif %}
   {% endunless %}
   {% for post in collection.docs %}
     {% unless collection.output == false or collection.label != "machine-learning" %}
-      {% if label != written_label and label == "machine-learning" %}
         {% include archive-single.html %}
-      {% endif %}
     {% endunless %}
   {% endfor %}
 {% endfor %}
