@@ -5,8 +5,8 @@ permalink: /machine-learning/DataCamp-Classification/
 tags:
   - machine learning
 sidebar:
-   - title: "DataCamp: Classification"
-      url: "#"
+  - title: "DataCamp: Classification"
+    url: "#"
   - nav:
     - title: "Header two"
       url: “#Header two"
