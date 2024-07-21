@@ -8,7 +8,7 @@ tags:
 ---
 
 - Machine Learning
-  - [DataCamp: Classification](../machine-learning/DataCamp-Classification/)
+  - [DataCamp: Classification](https://yuyulyu.github.io/machine-learning/DataCamp-Classification/)
 - Algorithm
   - [Chapter 3 Big O]()
 - CV
