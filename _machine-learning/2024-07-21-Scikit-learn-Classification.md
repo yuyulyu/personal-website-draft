@@ -57,10 +57,15 @@ sidebar:
     ```python
       prediction = model.predict(X_new)
     ```
-** Check accuracy
+**Check accuracy**
     K-Nearest-Neighbors:
     ```python
       knn.score(X_test,y_test))
     ```
+
+
+## References
+
+- [Supervised Learning with Scikit-Learn on DataCamp](https://app.datacamp.com/learn/courses/supervised-learning-with-scikit-learn)
 
 
