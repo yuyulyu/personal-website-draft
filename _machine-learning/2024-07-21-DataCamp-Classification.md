@@ -24,17 +24,13 @@ sidebar:
 ## Scikit-learn Syntax
 
 **Import scikit-learn**
-<div class="custom-code-block">
 ```python
 from sklearn.module import Model
-</div>
 ```
 
 **Example**
-<div class="custom-code-block">
 ```python
 model = Model()
 model.fit(X,y)
 prediction = model.predict(X_new)
-</div>
 ```
