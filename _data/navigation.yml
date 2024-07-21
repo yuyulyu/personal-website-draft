@@ -25,7 +25,7 @@ main:
     url: /notes/
 
   - title: "Machine Learning"
-    url: /machine-learning/
+    url: /machine-learning-notes/
 
   - title: "Algorithm"
     url: /algorithm/
