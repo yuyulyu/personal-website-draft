@@ -4,8 +4,8 @@ date: 2024-07-21
 permalink: /machine-learning/DataCamp-Classification/
 tags:
   - machine learning
-sidebar:
-  nav:
+sidebar: 
+  - nav:
     - title: "Study Blogs"
       url: /machine-learning/DataCamp-Classification/
 ---
