@@ -5,10 +5,11 @@ permalink: /machine-learning/DataCamp-Classification/
 tags:
   - machine learning
 sidebar:
-  - title: "DataCamp: Classification"
   - nav:
+    - title: "DataCamp: Classification"
+      url: "#"
     - title: "Header two"
-    - url: “#Header two"
+      url: “#Header two"
 ---
 
 d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.v
