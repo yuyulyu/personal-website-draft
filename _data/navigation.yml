@@ -21,8 +21,8 @@ main:
   #- title: "Guide"
     #url: /markdown/
 
-  - title: "Leetcode"
-    url: /leetcode-posts/
+  - title: "Notes"
+    url: /notes/
 
   - title: "Test"
     url: /test/
