@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can download my CV [here](http://yuyulyu.github.io/files/Le_Lyu_CV.pdf)
+
 Education
 ======
 ### 2022-2026: University of Bath
