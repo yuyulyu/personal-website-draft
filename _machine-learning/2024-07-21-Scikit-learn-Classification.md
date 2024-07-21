@@ -24,7 +24,7 @@ sidebar:
 
 ## Scikit-learn Syntax
 
-1. Import scikit-learn**.
+1. Import scikit-learn.
    ```python
     from sklearn.module import Model
    ```
