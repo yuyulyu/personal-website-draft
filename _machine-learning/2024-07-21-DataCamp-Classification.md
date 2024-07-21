@@ -12,7 +12,7 @@ sidebar:
       url: “#header-two"
 ---
 
-## Machine Learning with scikit-learn {##machine-learning-with-scikit-learn}
+## Machine Learning with scikit-learn {#machine-learning-with-scikit-learn}
 
 ### Before using supervise learning
  **Requirements**
@@ -23,6 +23,8 @@ sidebar:
 
 ### Scikit-learn Syntax
 **Import scikit-learn**
+<div class="custom-code-block">
 ```python
 from sklearn.module import Model
+</div>
 ```
