@@ -4,10 +4,15 @@ date: 2024-07-21
 permalink: /machine-learning/DataCamp-Classification/
 tags:
   - machine learning
-sidebar: 
+sidebar:
+  - title: "DataCamp: Classification"
   - nav:
-    - title: "Study Blogs"
-      url: /machine-learning/DataCamp-Classification/
+    - title: "Title 1"
+    - url: 
 ---
+
+d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.v
+
+## Header two
 
 d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.d will automatically be included below this section in a smaller font.v
