@@ -13,7 +13,10 @@ excerpt: "This is an excerpt."
 toc: true
 ---
 
-{% include toc %}
+<div class = "sidebar sticky" width = "40%">
+  {% include toc %}
+</div>
+
 
 
 # Machine Learning with scikit-learn {#machine-learning-with-scikit-learn}
