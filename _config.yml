@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Le Lyu"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Le Lyu"
 description              : &description "My personal website."
