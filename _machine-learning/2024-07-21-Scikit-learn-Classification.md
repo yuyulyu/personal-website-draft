@@ -11,6 +11,7 @@ sidebar:
   - nav:
     - title: "Header two"
       url: “#header-two"
+  - excerpt: "This is an excerpt."
 ---
 
 # Machine Learning with scikit-learn {#machine-learning-with-scikit-learn}
