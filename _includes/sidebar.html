@@ -21,6 +21,10 @@
       <p> sidebar {{sidebar.nav}}</p>
       {% include nav_list nav=page.sidebar.nav %}
     {% endif %}
+    {% if page.toc %}
+    <p> toc </p>
+    {% incluude toc %}
+    {% endif %}
   {% endif %}
   </div>
 {% endif %}
