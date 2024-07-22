@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-{% include toc %}
-
 You can find my CV [here](../assets/Le_Lyu_CV.pdf).
 
 Education
