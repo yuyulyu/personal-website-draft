@@ -6,8 +6,6 @@ tags:
   - machine learning
   - scikit-learn
 sidebar:
-  - title: "Title"
-    url: "#"
   - nav:
     - title: "Header two"
       url: “#header-two"
