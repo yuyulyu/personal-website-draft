@@ -4,6 +4,7 @@
 <nav class="nav__list">
   {% if page.sidebar.title %}<header><h4 class="nav__title" style="padding: 0;">{{ page.sidebar.title }}</h4></header>{% endif %}
   <ul>
+    {% include toc %}
     {% for nav in navigation %}
       <li>
         {% if nav.url %}
