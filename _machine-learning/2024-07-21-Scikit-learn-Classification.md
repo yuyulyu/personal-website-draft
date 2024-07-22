@@ -13,6 +13,7 @@ sidebar:
       url: “#header-two"
   - excerpt: "This is an excerpt."
 ---
+{% include toc %}
 
 # Machine Learning with scikit-learn {#machine-learning-with-scikit-learn}
 
