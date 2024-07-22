@@ -13,12 +13,6 @@ excerpt: "This is an excerpt."
 toc: true
 ---
 
-<div class = "sidebar sticky" width = "40%">
-  {% include toc %}
-</div>
-
-
-
 # Machine Learning with scikit-learn {#machine-learning-with-scikit-learn}
 
 ## Before using supervise learning
