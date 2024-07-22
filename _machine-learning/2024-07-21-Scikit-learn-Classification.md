@@ -11,7 +11,9 @@ sidebar:
   - nav:
     - title: "Header two"
       url: “#header-two"
-  - excerpt: "This is an excerpt."
+excerpt: "This is an excerpt."
+toc: true
+
 ---
 
 
