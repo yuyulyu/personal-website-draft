@@ -7,10 +7,9 @@ tags:
   - scikit-learn
 sidebar:
   - nav:
-    - title: "Header two"
-      url: “#header-two"
+    - title: "Machine Learning with scikit-learn"
+      url: “#machine-learning-with-scikit-learn"
 excerpt: "This is an excerpt."
-toc: true
 ---
 
 # Machine Learning with scikit-learn {#machine-learning-with-scikit-learn}
